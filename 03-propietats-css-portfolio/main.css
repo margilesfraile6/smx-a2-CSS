@@ -196,6 +196,7 @@ article.projecte p {
 }
 
 article.projecte p strong {
+  color: #000000;
 
 }
 
@@ -235,6 +236,8 @@ div.experiencia-item em {
 
 /* Selector germà general - Tots els paràgrafs després de l'empresa */
 p.empresa ~ p {
+  margin-top: 0.7rem;
+  line height: 0.7rem;
 }
 
 /* ============================================
